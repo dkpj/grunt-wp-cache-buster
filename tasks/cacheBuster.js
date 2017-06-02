@@ -56,7 +56,7 @@ module.exports = function (grunt) {
 
     function newFileName(file, hash, extension) {
         file = file.slice(0, file.lastIndexOf(extension));
-        return file + "-" + hash + extension;
+        return file + "-_-" + hash + extension;
     }
 
     function fileNameToRemove(file, extension) {
