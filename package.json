@@ -1,0 +1,24 @@
+{
+  "name": "grunt-wp-cache-buster",
+  "version": "1.0.0",
+  "description": "Invalidates browser caches when your css or js are updated",
+  "main": "cacheBuster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dkpj/grunt-wp-cache-buster.git"
+  },
+  "keywords": [
+    "wordpress",
+    "cache",
+    "buster"
+  ],
+  "author": "Patrik Jansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkpj/grunt-wp-cache-buster/issues"
+  },
+  "homepage": "https://github.com/dkpj/grunt-wp-cache-buster#readme"
+}
